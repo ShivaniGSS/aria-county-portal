@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-09-17",
+  "programs": [
+    {
+      "id": "prog_routine",
+      "name": "FY2027 Routine Maintenance",
+      "funding_source": "County General Fund",
+      "budget_total": 480000,
+      "budget_spent": 258116.19,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "prog_hsip",
+      "name": "FY2027 Highway Safety Improvement Program",
+      "funding_source": "Federal HSIP",
+      "budget_total": 220000,
+      "budget_spent": 57476.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "prog_resurfacing",
+      "name": "FY2027 Capital Resurfacing Program",
+      "funding_source": "IDOT MFT + County Match",
+      "budget_total": 650000,
+      "budget_spent": 242946.08,
+      "source": "synthetic_placeholder"
+    }
+  ]
+}

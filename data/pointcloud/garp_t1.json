@@ -1,0 +1,24 @@
+{
+  "track": "garp_t1",
+  "point_count": 800000,
+  "origin_E": 878117.824,
+  "origin_N": 2020099.447,
+  "origin_z_offset": 758.3413696289062,
+  "bounds": {
+    "x": [
+      -44.97846984863281,
+      920.1614990234375
+    ],
+    "y": [
+      -33.807350158691406,
+      37034.27734375
+    ],
+    "z": [
+      0.0,
+      150.83001708984375
+    ]
+  },
+  "layout": "xyz_f32 then rgb_u8, both length point_count, same order",
+  "source": "ruralbench_pilot_boone_garp_t1_lidar_sign_vicinity_crops",
+  "note": "Sign-vicinity crops (45ft radius per sign station), not a continuous corridor sweep."
+}
