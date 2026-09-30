@@ -1,0 +1,3255 @@
+{
+  "generated_at": "2026-09-17",
+  "work_orders": [
+    {
+      "id": "wo_0001",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-08",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0001"
+      ],
+      "cost_estimate": 5953.38,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0002",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-20",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0003"
+      ],
+      "cost_estimate": 2669.56,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0003",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-05",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0004"
+      ],
+      "cost_estimate": 3065.63,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0004",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-10",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0005"
+      ],
+      "cost_estimate": 1359.75,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0005",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-05-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0007"
+      ],
+      "cost_estimate": 2566.92,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0006",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-10-13",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0008"
+      ],
+      "cost_estimate": 1691.34,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0007",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0009",
+        "task_0237"
+      ],
+      "cost_estimate": 5548.26,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0008",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-14",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0011",
+        "task_0456"
+      ],
+      "cost_estimate": 3651.93,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0009",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-26",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0012",
+        "task_0302"
+      ],
+      "cost_estimate": 929.63,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0010",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-09",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0013",
+        "task_0092"
+      ],
+      "cost_estimate": 5188.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0011",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-12",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0014"
+      ],
+      "cost_estimate": 1404.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0012",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-17",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0015"
+      ],
+      "cost_estimate": 243.84,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0013",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-24",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0016"
+      ],
+      "cost_estimate": 2765.55,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0014",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0018",
+        "task_0115",
+        "task_0146",
+        "task_0296",
+        "task_0496"
+      ],
+      "cost_estimate": 12452.260000000002,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0015",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-08-12",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0019"
+      ],
+      "cost_estimate": 2668.62,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0016",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-06-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0020",
+        "task_0467"
+      ],
+      "cost_estimate": 2555.1499999999996,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0017",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-07-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0021"
+      ],
+      "cost_estimate": 1128.84,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0018",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-06-01",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0022",
+        "task_0080"
+      ],
+      "cost_estimate": 3239.1400000000003,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0019",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-08-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0023"
+      ],
+      "cost_estimate": 4005.55,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0020",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-07-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0025",
+        "task_0446"
+      ],
+      "cost_estimate": 3408.84,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0021",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-06-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0026"
+      ],
+      "cost_estimate": 1700.01,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0022",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-06-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0027",
+        "task_0188"
+      ],
+      "cost_estimate": 3671.81,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0023",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-01",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0033"
+      ],
+      "cost_estimate": 5825.95,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0024",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-18",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0034",
+        "task_0295"
+      ],
+      "cost_estimate": 4364.5,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0025",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-06-29",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0035"
+      ],
+      "cost_estimate": 3147.38,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0026",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-07-22",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0036"
+      ],
+      "cost_estimate": 1748.51,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0027",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-10-01",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0037"
+      ],
+      "cost_estimate": 720.07,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0028",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-10-09",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0038"
+      ],
+      "cost_estimate": 1896.31,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0029",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-05-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0039"
+      ],
+      "cost_estimate": 1027.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0030",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-06-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0040"
+      ],
+      "cost_estimate": 5491.76,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0031",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-02-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0041"
+      ],
+      "cost_estimate": 950.32,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0032",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-03-31",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0042"
+      ],
+      "cost_estimate": 2192.7,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0033",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0043",
+        "task_0103",
+        "task_0104",
+        "task_0181",
+        "task_0278"
+      ],
+      "cost_estimate": 12810.539999999999,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0034",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0045",
+        "task_0315"
+      ],
+      "cost_estimate": 927.1800000000001,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0035",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-14",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0046",
+        "task_0069",
+        "task_0161",
+        "task_0167",
+        "task_0313",
+        "task_0434",
+        "task_0444"
+      ],
+      "cost_estimate": 10887.16,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0036",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-09",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0047",
+        "task_0170"
+      ],
+      "cost_estimate": 2013.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0037",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-23",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0049",
+        "task_0319",
+        "task_0340",
+        "task_0499"
+      ],
+      "cost_estimate": 10038.49,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0038",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-10-05",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0050"
+      ],
+      "cost_estimate": 3269.67,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0039",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0051",
+        "task_0133",
+        "task_0384",
+        "task_0400"
+      ],
+      "cost_estimate": 16438.57,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0040",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-05-01",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0052"
+      ],
+      "cost_estimate": 1871.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0041",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-08-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0054"
+      ],
+      "cost_estimate": 3927.62,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0042",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-15",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0055",
+        "task_0057"
+      ],
+      "cost_estimate": 6320.32,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0043",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-11",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0056"
+      ],
+      "cost_estimate": 2723.18,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0044",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-09",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0058"
+      ],
+      "cost_estimate": 2532.1,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0045",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-26",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0059"
+      ],
+      "cost_estimate": 1043.17,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0046",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-16",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0060",
+        "task_0276",
+        "task_0337",
+        "task_0360",
+        "task_0392",
+        "task_0452",
+        "task_0469"
+      ],
+      "cost_estimate": 16652.64,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0047",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0061"
+      ],
+      "cost_estimate": 972.69,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0048",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-03",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0062"
+      ],
+      "cost_estimate": 4782.93,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0049",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-15",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0063"
+      ],
+      "cost_estimate": 5687.64,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0050",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0065"
+      ],
+      "cost_estimate": 3853.35,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0051",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0066"
+      ],
+      "cost_estimate": 579.37,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0052",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-06-11",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0067",
+        "task_0414"
+      ],
+      "cost_estimate": 3378.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0053",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-10-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0068",
+        "task_0463"
+      ],
+      "cost_estimate": 8837.64,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0054",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-27",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0071"
+      ],
+      "cost_estimate": 2195.72,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0055",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0072",
+        "task_0094",
+        "task_0127",
+        "task_0229",
+        "task_0439"
+      ],
+      "cost_estimate": 13736.6,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0056",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0073"
+      ],
+      "cost_estimate": 7281.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0057",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-03-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0074"
+      ],
+      "cost_estimate": 4515.3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0058",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-13",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0076",
+        "task_0307",
+        "task_0318",
+        "task_0341",
+        "task_0375",
+        "task_0385",
+        "task_0450"
+      ],
+      "cost_estimate": 17234.43,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0059",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-30",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0077",
+        "task_0131"
+      ],
+      "cost_estimate": 2251.42,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0060",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-23",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0078",
+        "task_0109"
+      ],
+      "cost_estimate": 4826.22,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0061",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-05",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0079"
+      ],
+      "cost_estimate": 3716.47,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0062",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-08-31",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0082"
+      ],
+      "cost_estimate": 7171.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0063",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-10",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0083"
+      ],
+      "cost_estimate": 7100.82,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0064",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-02",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0084",
+        "task_0297"
+      ],
+      "cost_estimate": 4473.86,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0065",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0090",
+        "task_0116",
+        "task_0500"
+      ],
+      "cost_estimate": 10391.43,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0066",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-02",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0093"
+      ],
+      "cost_estimate": 877.66,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0067",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0096",
+        "task_0336"
+      ],
+      "cost_estimate": 6821.26,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0068",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-06",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0097"
+      ],
+      "cost_estimate": 2644.51,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0069",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0098"
+      ],
+      "cost_estimate": 3444.41,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0070",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-10-10",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0100"
+      ],
+      "cost_estimate": 5414.81,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0071",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0101"
+      ],
+      "cost_estimate": 506.23,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0072",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0105"
+      ],
+      "cost_estimate": 2256.94,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0073",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-12",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0106"
+      ],
+      "cost_estimate": 993.29,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0074",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-04-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0107"
+      ],
+      "cost_estimate": 1386.7,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0075",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-03-14",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0108"
+      ],
+      "cost_estimate": 1448.18,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0076",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-04-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0110"
+      ],
+      "cost_estimate": 2772.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0077",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-05-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0113"
+      ],
+      "cost_estimate": 1165.91,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0078",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-03",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0114",
+        "task_0421"
+      ],
+      "cost_estimate": 1021.6600000000001,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0079",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-15",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0117",
+        "task_0134",
+        "task_0159",
+        "task_0219",
+        "task_0263",
+        "task_0322",
+        "task_0411"
+      ],
+      "cost_estimate": 21863.7,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0080",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-05-12",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0118"
+      ],
+      "cost_estimate": 5989.89,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0081",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-02",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0119",
+        "task_0459"
+      ],
+      "cost_estimate": 8456.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0082",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-06",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0120"
+      ],
+      "cost_estimate": 2853.73,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0083",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-24",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0121"
+      ],
+      "cost_estimate": 1639.42,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0084",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-20",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0122"
+      ],
+      "cost_estimate": 650.23,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0085",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-04-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0123"
+      ],
+      "cost_estimate": 1044.48,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0086",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-08-18",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0124"
+      ],
+      "cost_estimate": 4028.63,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0087",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0125",
+        "task_0135"
+      ],
+      "cost_estimate": 6022.24,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0088",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-11",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0126"
+      ],
+      "cost_estimate": 1644.78,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0089",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-03-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0128"
+      ],
+      "cost_estimate": 5767.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0090",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-10-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0129"
+      ],
+      "cost_estimate": 1334.13,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0091",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-16",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0130",
+        "task_0258"
+      ],
+      "cost_estimate": 6169.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0092",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-02",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0132",
+        "task_0390"
+      ],
+      "cost_estimate": 4779.6,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0093",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-07-13",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0136"
+      ],
+      "cost_estimate": 1446.98,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0094",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-16",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0139",
+        "task_0256",
+        "task_0279"
+      ],
+      "cost_estimate": 5780.3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0095",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-10-09",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0141"
+      ],
+      "cost_estimate": 5230.76,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0096",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0142",
+        "task_0147"
+      ],
+      "cost_estimate": 4889.1900000000005,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0097",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0143",
+        "task_0145",
+        "task_0168"
+      ],
+      "cost_estimate": 12401.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0098",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-11",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0144",
+        "task_0149"
+      ],
+      "cost_estimate": 4018.8,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0099",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-04-25",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0148"
+      ],
+      "cost_estimate": 1325.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0100",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-03-01",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0150"
+      ],
+      "cost_estimate": 4283.24,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0101",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-01",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0151",
+        "task_0166",
+        "task_0369"
+      ],
+      "cost_estimate": 7506.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0102",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0153"
+      ],
+      "cost_estimate": 2769.02,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0103",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-18",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0154"
+      ],
+      "cost_estimate": 3958.81,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0104",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-18",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0155",
+        "task_0285",
+        "task_0289",
+        "task_0314"
+      ],
+      "cost_estimate": 10009.840000000002,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0105",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-06",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0157"
+      ],
+      "cost_estimate": 1008.74,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0106",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-11",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0160"
+      ],
+      "cost_estimate": 3935.19,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0107",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0163"
+      ],
+      "cost_estimate": 2422.84,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0108",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0164"
+      ],
+      "cost_estimate": 2691.15,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0109",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-25",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0171",
+        "task_0210"
+      ],
+      "cost_estimate": 2924.26,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0110",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-06-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0172",
+        "task_0283"
+      ],
+      "cost_estimate": 6522.209999999999,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0111",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-12",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0174"
+      ],
+      "cost_estimate": 2363.13,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0112",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-06-11",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0175"
+      ],
+      "cost_estimate": 4348.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0113",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-04-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0176",
+        "task_0423"
+      ],
+      "cost_estimate": 2773.55,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0114",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0177"
+      ],
+      "cost_estimate": 3441.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0115",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0178",
+        "task_0389",
+        "task_0465"
+      ],
+      "cost_estimate": 10864.310000000001,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0116",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0179",
+        "task_0505"
+      ],
+      "cost_estimate": 2662.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0117",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-02-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0180"
+      ],
+      "cost_estimate": 4457.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0118",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0183"
+      ],
+      "cost_estimate": 2649.47,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0119",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-10-02",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0184",
+        "task_0234"
+      ],
+      "cost_estimate": 3817.96,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0120",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-05",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0185"
+      ],
+      "cost_estimate": 2858.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0121",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-08-12",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0186"
+      ],
+      "cost_estimate": 3557.65,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0122",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-07",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0189",
+        "task_0494"
+      ],
+      "cost_estimate": 6695.3099999999995,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0123",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-23",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0191"
+      ],
+      "cost_estimate": 2887.84,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0124",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-16",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0193"
+      ],
+      "cost_estimate": 2477.88,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0125",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-29",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0194",
+        "task_0451"
+      ],
+      "cost_estimate": 7650.5,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0126",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-07-20",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0197"
+      ],
+      "cost_estimate": 987.04,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0127",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0199",
+        "task_0383"
+      ],
+      "cost_estimate": 6613.38,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0128",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-31",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0200"
+      ],
+      "cost_estimate": 1515.2,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0129",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0202",
+        "task_0266"
+      ],
+      "cost_estimate": 2448.6499999999996,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0130",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-22",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0203",
+        "task_0361"
+      ],
+      "cost_estimate": 3113.6200000000003,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0131",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0205",
+        "task_0417"
+      ],
+      "cost_estimate": 6873.88,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0132",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-05-08",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0206"
+      ],
+      "cost_estimate": 6569.33,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0133",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-04-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0207"
+      ],
+      "cost_estimate": 2163.99,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0134",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-26",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0211"
+      ],
+      "cost_estimate": 6299.37,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0135",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-05-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0212"
+      ],
+      "cost_estimate": 1570.48,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0136",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-06-09",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0213"
+      ],
+      "cost_estimate": 1957.88,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0137",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-02",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0214"
+      ],
+      "cost_estimate": 617.17,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0138",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-30",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0215",
+        "task_0488"
+      ],
+      "cost_estimate": 4583.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0139",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-08-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0216"
+      ],
+      "cost_estimate": 4290.34,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0140",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-08-21",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0218"
+      ],
+      "cost_estimate": 2946.3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0141",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-06",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0220"
+      ],
+      "cost_estimate": 4493.22,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0142",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0221"
+      ],
+      "cost_estimate": 4119.21,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0143",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-08-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0223"
+      ],
+      "cost_estimate": 5160.59,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0144",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-17",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0224",
+        "task_0268",
+        "task_0332"
+      ],
+      "cost_estimate": 6240.349999999999,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0145",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-05-18",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0225"
+      ],
+      "cost_estimate": 6273.93,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0146",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2025-12-17",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0226"
+      ],
+      "cost_estimate": 1427.85,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0147",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-08-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0227"
+      ],
+      "cost_estimate": 1145.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0148",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0230"
+      ],
+      "cost_estimate": 6018.13,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0149",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-10-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0231"
+      ],
+      "cost_estimate": 671.09,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0150",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-10-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0232"
+      ],
+      "cost_estimate": 2394.89,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0151",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-18",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0233"
+      ],
+      "cost_estimate": 1369.66,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0152",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-24",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0235"
+      ],
+      "cost_estimate": 4481.92,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0153",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-10-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0239",
+        "task_0367"
+      ],
+      "cost_estimate": 9295.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0154",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-22",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0241"
+      ],
+      "cost_estimate": 461.35,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0155",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-01-20",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0243"
+      ],
+      "cost_estimate": 1351.63,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0156",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-05-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0244"
+      ],
+      "cost_estimate": 2060.62,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0157",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-23",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0245"
+      ],
+      "cost_estimate": 517.51,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0158",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-10-11",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0246"
+      ],
+      "cost_estimate": 5396.09,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0159",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0247"
+      ],
+      "cost_estimate": 2035.36,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0160",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-04-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0248"
+      ],
+      "cost_estimate": 406.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0161",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-04",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0249"
+      ],
+      "cost_estimate": 1045.57,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0162",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0251"
+      ],
+      "cost_estimate": 3155.93,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0163",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0253"
+      ],
+      "cost_estimate": 333.86,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0164",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-10-14",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0254"
+      ],
+      "cost_estimate": 806.49,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0165",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-10-10",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0255",
+        "task_0372"
+      ],
+      "cost_estimate": 6555.42,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0166",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0257"
+      ],
+      "cost_estimate": 1077.38,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0167",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-06-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0260"
+      ],
+      "cost_estimate": 4991.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0168",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-20",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0261"
+      ],
+      "cost_estimate": 2528.13,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0169",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-07",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0262"
+      ],
+      "cost_estimate": 4040.11,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0170",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0264"
+      ],
+      "cost_estimate": 1352.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0171",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-29",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0267"
+      ],
+      "cost_estimate": 1184.07,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0172",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-05-23",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0272"
+      ],
+      "cost_estimate": 1776.45,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0173",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-06-28",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0273"
+      ],
+      "cost_estimate": 2161.22,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0174",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-04-20",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0274"
+      ],
+      "cost_estimate": 893.8,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0175",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-11",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0280"
+      ],
+      "cost_estimate": 2593.81,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0176",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-07-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0281"
+      ],
+      "cost_estimate": 352.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0177",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-04-27",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0282"
+      ],
+      "cost_estimate": 3171.37,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0178",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-29",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0286"
+      ],
+      "cost_estimate": 2814.99,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0179",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-04-13",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0287"
+      ],
+      "cost_estimate": 2566.29,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0180",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-05-26",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0288"
+      ],
+      "cost_estimate": 1834.73,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0181",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-04-25",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0293"
+      ],
+      "cost_estimate": 246.73,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0182",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-07-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0298"
+      ],
+      "cost_estimate": 2079.02,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0183",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-05-18",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0301"
+      ],
+      "cost_estimate": 861.6,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0184",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-22",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0303",
+        "task_0495"
+      ],
+      "cost_estimate": 6429.5,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0185",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0306",
+        "task_0416"
+      ],
+      "cost_estimate": 7860.15,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0186",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-22",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0308",
+        "task_0330"
+      ],
+      "cost_estimate": 6357.57,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0187",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-08",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0309"
+      ],
+      "cost_estimate": 5609.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0188",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-27",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0310",
+        "task_0339"
+      ],
+      "cost_estimate": 4086.2000000000003,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0189",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0316"
+      ],
+      "cost_estimate": 2164.2,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0190",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-03",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0317"
+      ],
+      "cost_estimate": 3179.91,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0191",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0320"
+      ],
+      "cost_estimate": 4022.94,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0192",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-08-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0325"
+      ],
+      "cost_estimate": 4166.98,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0193",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-06-20",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0327"
+      ],
+      "cost_estimate": 3291.76,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0194",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-05-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0328"
+      ],
+      "cost_estimate": 4892.73,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0195",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-03",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0331"
+      ],
+      "cost_estimate": 355.23,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0196",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-12",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0333"
+      ],
+      "cost_estimate": 976.27,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0197",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-04-08",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0334",
+        "task_0508"
+      ],
+      "cost_estimate": 5274.42,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0198",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-25",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0342"
+      ],
+      "cost_estimate": 1101.05,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0199",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2025-12-08",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0345"
+      ],
+      "cost_estimate": 4146.59,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0200",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-26",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0346"
+      ],
+      "cost_estimate": 3769.19,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0201",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-29",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0347"
+      ],
+      "cost_estimate": 1335.81,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0202",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-10-16",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0348"
+      ],
+      "cost_estimate": 694.96,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0203",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-06-26",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0349"
+      ],
+      "cost_estimate": 3678.22,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0204",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-04",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0350"
+      ],
+      "cost_estimate": 2871.42,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0205",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-11",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0351"
+      ],
+      "cost_estimate": 2655.58,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0206",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-04-22",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0352"
+      ],
+      "cost_estimate": 4731.75,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0207",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-15",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0353"
+      ],
+      "cost_estimate": 441.88,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0208",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-02-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0355",
+        "task_0503"
+      ],
+      "cost_estimate": 1681.54,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0209",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-09-27",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0357"
+      ],
+      "cost_estimate": 1778.66,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0210",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-10-11",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0358"
+      ],
+      "cost_estimate": 1943.61,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0211",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-25",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0359"
+      ],
+      "cost_estimate": 1846.75,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0212",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-17",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0362"
+      ],
+      "cost_estimate": 852.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0213",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-27",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0365"
+      ],
+      "cost_estimate": 1980.64,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0214",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0366"
+      ],
+      "cost_estimate": 204.09,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0215",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-25",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0368"
+      ],
+      "cost_estimate": 982.11,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0216",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-22",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0370"
+      ],
+      "cost_estimate": 4385.25,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0217",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0371"
+      ],
+      "cost_estimate": 2779.57,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0218",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-11",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0374"
+      ],
+      "cost_estimate": 656.59,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0219",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-25",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0376"
+      ],
+      "cost_estimate": 409.53,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0220",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-07-24",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0377"
+      ],
+      "cost_estimate": 2126.93,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0221",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-05-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0379"
+      ],
+      "cost_estimate": 1725.92,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0222",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-08-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0380"
+      ],
+      "cost_estimate": 2582.56,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0223",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-06-15",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0381"
+      ],
+      "cost_estimate": 3243.05,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0224",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-03-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0386"
+      ],
+      "cost_estimate": 660.25,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0225",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-05-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0387"
+      ],
+      "cost_estimate": 2158.59,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0226",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-03-07",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0391"
+      ],
+      "cost_estimate": 2586.95,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0227",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0393"
+      ],
+      "cost_estimate": 4346.35,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0228",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-04-21",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0395"
+      ],
+      "cost_estimate": 469.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0229",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-06-24",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0396"
+      ],
+      "cost_estimate": 1538.27,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0230",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-04-14",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0397"
+      ],
+      "cost_estimate": 5823.04,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0231",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-30",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0398"
+      ],
+      "cost_estimate": 3275.37,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0232",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0399"
+      ],
+      "cost_estimate": 928.47,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0233",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-08-17",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0401"
+      ],
+      "cost_estimate": 4391.68,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0234",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-06-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0405"
+      ],
+      "cost_estimate": 930.46,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0235",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-10-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0406"
+      ],
+      "cost_estimate": 6056.67,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0236",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0407"
+      ],
+      "cost_estimate": 372.67,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0237",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-04-26",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0410"
+      ],
+      "cost_estimate": 566.0,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0238",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0413",
+        "task_0453"
+      ],
+      "cost_estimate": 4326.73,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0239",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-24",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0415"
+      ],
+      "cost_estimate": 2726.99,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0240",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-21",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0418"
+      ],
+      "cost_estimate": 798.87,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0241",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-08-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0419"
+      ],
+      "cost_estimate": 341.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0242",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-01-13",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0420"
+      ],
+      "cost_estimate": 3751.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0243",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-23",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0422"
+      ],
+      "cost_estimate": 2382.08,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0244",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-10-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0425"
+      ],
+      "cost_estimate": 616.17,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0245",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-06-17",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0426"
+      ],
+      "cost_estimate": 3867.39,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0246",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-07-25",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0427"
+      ],
+      "cost_estimate": 4024.76,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0247",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-09-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0429"
+      ],
+      "cost_estimate": 6679.45,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0248",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-07-04",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0431"
+      ],
+      "cost_estimate": 741.48,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0249",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-10-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0435"
+      ],
+      "cost_estimate": 2677.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0250",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-14",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0440",
+        "task_0501"
+      ],
+      "cost_estimate": 3931.9100000000003,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0251",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-07-10",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0441"
+      ],
+      "cost_estimate": 3857.79,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0252",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-06-26",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0443"
+      ],
+      "cost_estimate": 2908.24,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0253",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-09-28",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0445"
+      ],
+      "cost_estimate": 3743.85,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0254",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-05-12",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0447"
+      ],
+      "cost_estimate": 364.06,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0255",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-17",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0454"
+      ],
+      "cost_estimate": 4678.68,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0256",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-13",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0455"
+      ],
+      "cost_estimate": 6425.54,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0257",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-09-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0457"
+      ],
+      "cost_estimate": 1386.16,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0258",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-08-24",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0458"
+      ],
+      "cost_estimate": 2726.03,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0259",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-07-28",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0460"
+      ],
+      "cost_estimate": 4339.34,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0260",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-05-29",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0461"
+      ],
+      "cost_estimate": 7132.91,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0261",
+      "crew_id": "crew_spring_flora",
+      "scheduled_date": "2026-04-30",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0462"
+      ],
+      "cost_estimate": 4441.76,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0262",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-09-06",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0470"
+      ],
+      "cost_estimate": 4185.14,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0263",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-08-03",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0472"
+      ],
+      "cost_estimate": 2257.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0264",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-06-23",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0473"
+      ],
+      "cost_estimate": 2458.05,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0265",
+      "crew_id": "crew_bonus_leroy_boone",
+      "scheduled_date": "2026-03-15",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0474"
+      ],
+      "cost_estimate": 2207.43,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0266",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-09-19",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0475"
+      ],
+      "cost_estimate": 522.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0267",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-03-16",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0476"
+      ],
+      "cost_estimate": 3552.34,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0268",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-07-26",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0477"
+      ],
+      "cost_estimate": 2889.56,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0269",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-06-14",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0478"
+      ],
+      "cost_estimate": 2172.71,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0270",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-09-30",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0479"
+      ],
+      "cost_estimate": 3681.69,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0271",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-07-22",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0480"
+      ],
+      "cost_estimate": 1567.41,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0272",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-08-08",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0481"
+      ],
+      "cost_estimate": 4398.61,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0273",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-06-16",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0483"
+      ],
+      "cost_estimate": 3625.74,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0274",
+      "crew_id": "crew_bridge_structures",
+      "scheduled_date": "2026-09-07",
+      "program_id": "prog_resurfacing",
+      "task_ids": [
+        "task_0485"
+      ],
+      "cost_estimate": 5044.26,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0275",
+      "crew_id": "crew_signs_striping",
+      "scheduled_date": "2026-04-07",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0486"
+      ],
+      "cost_estimate": 2180.11,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0276",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-06-04",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0487"
+      ],
+      "cost_estimate": 1237.6,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0277",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-17",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0489"
+      ],
+      "cost_estimate": 1113.15,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0278",
+      "crew_id": "crew_mowing_roadside",
+      "scheduled_date": "2026-05-11",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0491"
+      ],
+      "cost_estimate": 410.07,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0279",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-13",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0492"
+      ],
+      "cost_estimate": 2582.12,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0280",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-26",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0493"
+      ],
+      "cost_estimate": 1419.66,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0281",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-07-03",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0497"
+      ],
+      "cost_estimate": 3430.44,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0282",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-04-30",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0498"
+      ],
+      "cost_estimate": 1756.6,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0283",
+      "crew_id": "crew_belvidere",
+      "scheduled_date": "2026-05-09",
+      "program_id": "prog_hsip",
+      "task_ids": [
+        "task_0504"
+      ],
+      "cost_estimate": 2362.69,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0284",
+      "crew_id": "crew_caledonia",
+      "scheduled_date": "2026-10-02",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0507"
+      ],
+      "cost_estimate": 4502.47,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0285",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-05-07",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0509"
+      ],
+      "cost_estimate": 2668.96,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "wo_0286",
+      "crew_id": "crew_poplar_manchester",
+      "scheduled_date": "2026-10-05",
+      "program_id": "prog_routine",
+      "task_ids": [
+        "task_0510"
+      ],
+      "cost_estimate": 3127.43,
+      "source": "synthetic_placeholder"
+    }
+  ]
+}

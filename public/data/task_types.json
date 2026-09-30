@@ -1,0 +1,18 @@
+{
+  "note": "Curated set of representative county-highway maintenance activities, grounded in AASHTO's Maintenance Manual activity families and IDOT's Bureau of Local Roads Chapter 14 (Maintenance). A real county's full activity list runs 40-60 items; this is a representative subset (1-2 per family) for v1.",
+  "task_types": [
+    { "id": "pothole_patching", "family": "pavement", "label": "Pothole patching", "default_target_response_days": 7, "severity_weight": 5 },
+    { "id": "crack_sealing", "family": "pavement", "label": "Crack sealing", "default_target_response_days": 60, "severity_weight": 2 },
+    { "id": "shoulder_repair", "family": "pavement", "label": "Shoulder repair/regrading", "default_target_response_days": 45, "severity_weight": 3 },
+    { "id": "culvert_cleaning", "family": "drainage", "label": "Culvert cleaning", "default_target_response_days": 30, "severity_weight": 3 },
+    { "id": "ditch_regrading", "family": "drainage", "label": "Ditch regrading", "default_target_response_days": 60, "severity_weight": 2 },
+    { "id": "mowing", "family": "roadside", "label": "Mowing", "default_target_response_days": 21, "severity_weight": 2 },
+    { "id": "debris_removal", "family": "roadside", "label": "Debris/downed-tree removal", "default_target_response_days": 3, "severity_weight": 5 },
+    { "id": "sign_replacement", "family": "signage", "label": "Sign replacement/repositioning", "default_target_response_days": 30, "severity_weight": 4 },
+    { "id": "pavement_marking_restripe", "family": "signage", "label": "Pavement marking restripe", "default_target_response_days": 90, "severity_weight": 2 },
+    { "id": "guardrail_repair", "family": "safety_hardware", "label": "Guardrail repair", "default_target_response_days": 30, "severity_weight": 4 },
+    { "id": "guardrail_end_treatment_upgrade", "family": "safety_hardware", "label": "Guardrail end-treatment upgrade", "default_target_response_days": 180, "severity_weight": 3 },
+    { "id": "culvert_structure_repair", "family": "structures", "label": "Culvert structure repair", "default_target_response_days": 60, "severity_weight": 4 },
+    { "id": "bridge_deck_patch_followup", "family": "structures", "label": "Bridge deck patch follow-up", "default_target_response_days": 45, "severity_weight": 4 }
+  ]
+}

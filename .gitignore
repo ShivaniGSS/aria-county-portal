@@ -1,0 +1,7 @@
+node_modules/
+raw_data/
+dist/
+.DS_Store
+*.local
+
+# Built site is deployed to the gh-pages branch

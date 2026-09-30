@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-09-17",
+  "crews": [
+    {
+      "id": "crew_belvidere",
+      "name": "Belvidere Section Crew",
+      "zone_id": "belvidere",
+      "size": 4,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_caledonia",
+      "name": "Caledonia Section Crew",
+      "zone_id": "caledonia",
+      "size": 3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_spring_flora",
+      "name": "Spring/Flora Section Crew",
+      "zone_id": "spring",
+      "size": 3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_poplar_manchester",
+      "name": "Poplar Grove/Manchester Section Crew",
+      "zone_id": "poplar_grove",
+      "size": 3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_bonus_leroy_boone",
+      "name": "Bonus/LeRoy/Boone Section Crew",
+      "zone_id": "bonus",
+      "size": 3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_signs_striping",
+      "name": "Signs & Striping Crew (countywide)",
+      "zone_id": null,
+      "size": 2,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_bridge_structures",
+      "name": "Bridge & Structures Crew (countywide)",
+      "zone_id": null,
+      "size": 3,
+      "source": "synthetic_placeholder"
+    },
+    {
+      "id": "crew_mowing_roadside",
+      "name": "Mowing & Roadside Crew (countywide)",
+      "zone_id": null,
+      "size": 4,
+      "source": "synthetic_placeholder"
+    }
+  ]
+}
