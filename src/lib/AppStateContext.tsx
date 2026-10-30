@@ -3,7 +3,7 @@ import type { PriorityTier } from './maintenanceTypes'
 import { addPeriod, computePeriodRange, isoDate, parseIsoDateLocal, type DateRange, type PeriodType } from './dateMath'
 
 export type { DateRange } from './dateMath'
-export type Page = 'county' | 'condition' | 'programming' | 'overview' | 'map' | 'table' | 'crews'
+export type Page = 'roads' | 'county' | 'condition' | 'programming' | 'overview' | 'map' | 'table' | 'crews'
 export type HeatmapMode = 'segment' | 'zone'
 
 /**
@@ -48,7 +48,7 @@ interface AppState {
 const AppStateContext = createContext<AppState | null>(null)
 
 export function AppStateProvider({ children }: { children: ReactNode }) {
-  const [page, setPage] = useState<Page>('county')
+  const [page, setPage] = useState<Page>('roads')
   const [selection, setSelection] = useState<Selection>(NO_SELECTION)
   const [periodType, setPeriodType] = useState<PeriodType>('day')
   const [periodAnchor, setPeriodAnchor] = useState<string>(() => isoDate(new Date()))

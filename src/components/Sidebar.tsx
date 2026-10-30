@@ -4,7 +4,8 @@ import type { PriorityTier } from '../lib/maintenanceTypes'
 
 const TIERS: PriorityTier[] = ['normal', 'watch', 'critical']
 // Planning is the spine; operations sits beneath it.
-const NAV: { id: Page; label: string; group: 'Planning' | 'Operations' }[] = [
+const NAV: { id: Page; label: string; group: 'Surveyed' | 'Planning' | 'Operations' }[] = [
+  { id: 'roads', label: 'Surveyed roads', group: 'Surveyed' },
   { id: 'county', label: 'County map', group: 'Planning' },
   { id: 'condition', label: 'Condition', group: 'Planning' },
   { id: 'programming', label: 'Programming', group: 'Planning' },
@@ -35,7 +36,7 @@ export function Sidebar() {
   return (
     <nav style={sidebarStyle}>
       <div>
-        {(['Planning', 'Operations'] as const).map((group) => (
+        {(['Surveyed', 'Planning', 'Operations'] as const).map((group) => (
           <div key={group} style={{ marginBottom: 10 }}>
             <div style={groupLabel}>{group}</div>
             {NAV.filter((n) => n.group === group).map((n) => (
@@ -47,6 +48,7 @@ export function Sidebar() {
         ))}
       </div>
 
+      {page !== 'roads' && <>
       <div style={dividerStyle} />
 
       <div style={{ fontSize: 12, color: 'var(--text-secondary)', fontWeight: 600 }}>Priority</div>
@@ -74,6 +76,7 @@ export function Sidebar() {
           </label>
         ))}
       </div>
+      </>}
     </nav>
   )
 }

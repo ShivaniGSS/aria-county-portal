@@ -116,6 +116,34 @@ a 6-mile segment, its sign inventory, or one individual sign.
 
 ## 4. Pages
 
+### Surveyed roads (new, the landing page)
+
+One page per surveyed road, built by `scripts/survey/build_road.py` from the detection engine's output and the survey
+trajectory (inputs in `raw_data/survey/<road>/`, outputs in `public/data/roads/<slug>/`). Stone Quarry Rd is the first.
+
+- **Three layouts to choose between** (engineers rate each with "Rate this layout"; ratings export with the
+  Feedback button): *Map* (map first, diagram underneath, street-view inset), *Street view* (360° panorama first with
+  assets pinned in the photo, locator map, road timeline), *Plan sheet* (straight-line diagram first, photos and map
+  beside it).
+- **Street view:** the survey's own cube-face panoramas (`scripts/survey/export_panoramas.py`, 768 px faces) in a
+  three.js viewer; drag to look, arrows to move. Roads without their own imagery borrow another road's panoramas and
+  say so ("representative").
+- **Map:** satellite or street basemap (Esri World Imagery, OpenFreeMap; both keyless), 3D tilt, every asset
+  drawn as its own icon (signs in their MUTCD shapes), road coloured by centre-line type, paved width, grade, curvature
+  or traffic, crashes, and rings on anything that needs attention. Under it, a straight-line diagram by station, grouped by decision (geometry, safety, signs, utilities,
+  access, IDOT), collapsible, density bars when zoomed out, symbols when zoomed in, and an "issues only" switch.
+- **Asset record:** x, y, z (IL State Plane East ft), station, side, clearances, dimensions, MUTCD checks written as
+  verdicts with margins, detection confidence, evidence views, the road at that spot, and a feedback box for engineers.
+  Every value says whether it is measured, derived, public or a placeholder.
+- **Work lists:** sign placement (MUTCD 2A.15/2A.16), fixed objects in a clear zone the county sets, curves without
+  warning signs, narrow pavement, leaning poles, mailbox height, passing zones, crashes; each exportable as CSV.
+- **Inventory:** every asset, filterable and sortable, export CSV or GeoJSON.
+
+How assets are located: cube faces 0–3 are compass-fixed (W, N, E, S); each detection is a bearing from its survey
+stop; bearings from several stops are intersected and checked against the distance implied by where the object meets
+the ground (camera 8.25 ft above the road). See `scripts/survey/geolocate.py`.
+
+
 ### Planning
 
 **County map** — the landing page. All 19 segments on a real basemap, coloured by

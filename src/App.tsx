@@ -12,6 +12,7 @@ import { ConditionPage } from './components/ConditionPage'
 import { CountyMapPage } from './components/CountyMapPage'
 import { FloatingMap } from './components/FloatingMap'
 import { MaintenanceTaskPanel } from './components/MaintenanceTaskPanel'
+import { RoadPage } from './components/road/RoadPage'
 import type { TaskInstance } from './lib/maintenanceTypes'
 
 interface SelectedSegment {
@@ -53,14 +54,15 @@ function AppInner() {
     <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column' }}>
       <header style={headerStyle}>
         <strong style={{ fontSize: 15 }}>ARIA County Portal</strong>
-        <TimePeriodControl />
+        {page !== 'roads' && <TimePeriodControl />}
       </header>
 
-      <StatTileStrip />
+      {page !== 'roads' && <StatTileStrip />}
 
       <div style={{ flex: 1, display: 'flex', minHeight: 0 }}>
         <Sidebar />
         <main style={{ flex: 1, minWidth: 0, position: 'relative' }}>
+          {page === 'roads' && <RoadPage />}
           {page === 'county' && <CountyMapPage />}
           {page === 'condition' && <ConditionPage />}
           {page === 'programming' && <ProgrammingPage />}
@@ -73,7 +75,7 @@ function AppInner() {
 
       {/* The map follows you off the county page -- graphs are never read without
           the place they describe. */}
-      {page !== 'county' && <FloatingMap />}
+      {page !== 'county' && page !== 'roads' && <FloatingMap />}
 
       {selectedSegment && (
         <MaintenanceTaskPanel

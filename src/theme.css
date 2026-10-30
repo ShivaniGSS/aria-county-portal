@@ -124,3 +124,20 @@ dd {
   text-transform: uppercase;
   font-size: 10px;
 }
+
+/* map hover cards on the surveyed-road page */
+.road-popup .maplibregl-popup-content {
+  background: var(--surface-1);
+  color: var(--text-primary);
+  border-radius: 8px;
+  box-shadow: var(--panel-shadow);
+  padding: 8px 10px;
+  font-size: 12.5px;
+  line-height: 1.4;
+}
+.road-popup .maplibregl-popup-content span {
+  color: var(--text-secondary);
+}
+.road-popup .maplibregl-popup-tip {
+  display: none;
+}
